@@ -1,0 +1,23 @@
+/*body{
+	background: linear-gradient(rgba(0,0,50,0.5), rgba(0,0,50,0.5)), url(images/records.jpg);
+
+	background-position: center;
+}*/
+
+body{
+	background: linear-gradient(rgba(0,0,50,0.5), rgba(0,0,50,0.5)), url(images/records.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.title{
+	color: #fff;
+	text-align: center;	
+	padding: 20%;
+}
+
+
+
+
