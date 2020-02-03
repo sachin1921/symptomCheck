@@ -2,8 +2,4 @@
     "require": {
         "twilio/sdk": "^5.42"
     }
-     "post-install-cmd": [
-     "php artisan clear-compiled",
-     "chmod -R 777 public/"
- ]
 }
